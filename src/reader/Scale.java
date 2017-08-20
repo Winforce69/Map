@@ -32,7 +32,7 @@ public class Scale {
        try {
       // setImg(
     	   img = 
-    		 ImageIO.read(new File("C:\\Users\\David_tmp\\Desktop\\captukre.png"));
+    		 ImageIO.read(new File("captukre.png"));
     	 
    }
     catch (IOException e) {
