@@ -1,5 +1,3 @@
 # Map
-A thing that maps a thing onto a height map of the United States????
+A Useful tool for finding out the effects of sea level rise
 
-
-You gotta get some images, too lazy to post right now will post later???? egh
